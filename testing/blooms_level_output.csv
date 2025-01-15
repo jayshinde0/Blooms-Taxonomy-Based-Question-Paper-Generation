@@ -1,0 +1,613 @@
+question,marks,blooms_level
+Explain the Closure and Decision properties of finite Automata,2,comprehension
+Explain limitations of Finite Automala,2,comprehension
+List the limitations of finite automata,2,knowledge
+Define Concurrent Grammar,2,knowledge
+Define Context free Grammar & give its Applications,2,knowledge
+State and Explain Ardens theorem,2,knowledge
+What is impact of defect in different phases of software development?,3,knowledge
+What is mutation testing? Give an example.,3,knowledge
+What are the selection criteria of automated testing tool?,3,knowledge
+Discuss “ automation in extreme programming”.,3,unknown
+Differentiate between software testing tools and techniques.,3,analysis
+What is impact of defect in different phases of software development?,3,knowledge
+What is mutation testing? Give an example. ,3,knowledge
+What are the skill set required by software tester? ,3,knowledge
+What are the selection criteria of automated testing tool?,3,knowledge
+Discuss “automation in extreme programming”. ,3,unknown
+Explain customer’s view of quality.,3,comprehension
+Define following terms: i) Defect ii) Benchmarking iii) Metrics,3,knowledge
+What are the skill set required by Software Tester? ,3,knowledge
+Explain Test automation framework with suitable diagram.,3,comprehension
+Explain features of good testing.,3,comprehension
+What are the different errors in software testing?,3,knowledge
+Explain features of J unit software testing tool.,3,comprehension
+List features of J Meter software testing tool.,3,knowledge
+Define Regular Expression. What are its limitations? List applications of RE.,3,knowledge
+Define Countable Set. Show that any subset of a countable set is countable,3,knowledge
+Define Deterministic and Non Deterministic Finite Automata in terms of 5-Tuple and discuss various applications of it,3,knowledge
+Define Countable Set. Show that any subset of a countable set is countable.,3,knowledge
+Define Deterministic and Non Deterministic Finite Automata in terms of 5-Tuple and discuss various applications of it.,3,knowledge
+Explain the aerated lagoon with respect to its working principle and applications.,3,comprehension
+What is phytoremediation and root zone technology?,3,knowledge
+Write the different techniques for dewatering of sludge?,3,knowledge
+What are the advantages of grey-water recycling?,3,knowledge
+Differentiate between linear SVM and non-linear SVM.,4,analysis
+Explain Elbow method for finding optimal number of clusters.,4,comprehension
+What are Linear support vector machines? Explain with example.,4,knowledge
+Explain Evaluation methods for clustering algorithms.,4,comprehension
+Write short note on PCA.,4,knowledge
+What is overfitting and underfitting? What are the catalysts of overfitting?,4,knowledge
+Why sometimes algorithms fail to produce correct results? Explain it with help of examples.,4,comprehension
+What is a contingency table/ Confusion Matrix? What is the use of it?,4,knowledge
+Define and explain model for classification. Also explain the same with respect Binary classification.,4,knowledge
+What is a multivariate linear regression?,4,knowledge
+Define following w.rt. Binary Classification: i) True positive ii)False positive iii)True Negative iv) True Negative,4,knowledge
+what is a support vector? How the margins are defined in support vector machine.,4,knowledge
+Differentiate between predictive and descriptive machine learning.,4,analysis
+What is reinforcement learning? Explain it with example.,4,knowledge
+Explain Probably Approximately Correct (PAC) learning with example.,4,comprehension
+Differentiate Feature Extraction Feature Selection with suitable example.,4,analysis
+What is Regression? Explain with suitable example,4,knowledge
+Write and explain K-nearest neighbor algorithm.,4,knowledge
+What is dimensionality reduction? What is need of it. Discuss in details.,4,knowledge
+Discuss PAC learning with suitable examples.,4,unknown
+Define unsupervised learning. Explain k-mean algorithm in detail.,4,knowledge
+Explain any one algorithm of association rule mining.,4,comprehension
+Discuss Bayesian principle with suitable mathematical formulae.,4,unknown
+Discuss normal distribution with suitable example.,4,unknown
+Explain reinforcement learning algorithm.,4,comprehension
+Discuss parametric and non-parametric methods.,4,unknown
+Define PCA. Discuss it with suitable mathematical formulae.,4,knowledge
+Differentiate feature extraction and selection.,4,analysis
+What is ensemble? Differentiate Bagging and Booting.,4,knowledge
+Discuss ID3 algorithm in detail.,4,unknown
+Explain hidden markov model in short.,4,comprehension
+Discuss Naive Bayes classifier with suitable example.,4,unknown
+What is supervised machine learning? Explain it in detail.,4,knowledge
+Define and explain prohabilistic machine learning model in detail.,4,knowledge
+What is Artificial Neural Network? Discuss different activation function of ANN.,4,knowledge
+Draw and explain multi layer perception in detail.,4,comprehension
+What is clustering? Explain Hierarchical clustering algorithm in detail.,4,knowledge
+Explain bagging algorithm in detail.,4,comprehension
+What is HMM? Explain HMM with suitable diagram,4,knowledge
+Describe discriminative learning with maximum likelihood.,4,comprehension
+Enlist and explain different models of machine learning. ,4,knowledge
+Differentiate predictive and descriptive machine learning.,4,analysis
+Define Bay’s theorem. Explain Naive Bayes classification in detail.,4,knowledge
+What is perceptron? Discuss it with suitable diagram.,4,knowledge
+Define regression. Describe linear and non linear regression.,4,knowledge
+What is non supervised machine learning ? Explain any one algorithm of non supervised machine learning. ,4,knowledge
+Explain normal distribution with suitable example,4,comprehension
+Describe algorithm of association rule mining with suitable example.,4,comprehension
+Write short note on Content Management System.,4,knowledge
+Write a short note on Spring,4,knowledge
+write the differences between client side scripting and server side scripting.,4,knowledge
+Find out and explain how XML and AJAX are related.,4,comprehension
+Explain customer’s view and supplier’s view with respect to quality.,4,comprehension
+What are the pillars of Quality Management System? ,4,knowledge
+What skills are expected in a good tester? ,4,knowledge
+Differentiate between Verification and Validation. ,4,analysis
+What are different criteria’s for selecting testing Tool? ,4,knowledge
+Explain features of JMeter software testing tool. ,4,comprehension
+What is white box testing and Black Box testing? what are the different methods for white box and Black box testing? Explain any one methods of each in detail,4,knowledge
+What are the difference in testing automation in agile and waterfall model? ,4,knowledge
+What are some of the challenges in automating the testing of GUI portions of an application? How do these compare with the automation of backend testing? ,4,knowledge
+Why independent testing team is required in organizations? ,4,unknown
+What are the difference in testing automation in agile and waterfall model? ,4,knowledge
+What are some of the challenges in automating the testing of GUI portions of an application? How do these compare with the automation of backend testing?,4,knowledge
+What is Test Plan Document? List and explain any two components of the Test Plan document.,4,knowledge
+Write short note on Mutation testing?,4,knowledge
+Differentiate between Automation testing and Manual testing.,4,analysis
+List and explain requirements for test tool.,4,knowledge
+Discuss the test Automation for XP/Agile model.,4,unknown
+What is data Driven testing (DDT)? Explain data driven testing framework.,4,knowledge
+Define quality as viewed by different stakeholders of software development and usage.,4,knowledge
+Give an example quality in different areas of software development; and Benchmarking and metrics for the same.,4,unknown
+What are types of Requirements and Product? Also point out relationship between Quality and Productivity.,4,knowledge
+What is JMeter testing? Explain the features of Jmeter? At least Three.,4,knowledge
+Write the differences between Client side scripting and server side scripting..,4,knowledge
+Find out and explain how XML and AJAX are related.,4,comprehension
+Write various features of struts framework.,4,knowledge
+List and explain various directives in AngularJS.,4,knowledge
+Write short note on Content Management System,4,knowledge
+Write a short note on JSF.,4,knowledge
+Classify data type of PHP and describe various data types in each type.,4,comprehension
+Write different applications without AJAX and with AJAX.,4,knowledge
+List and explain events supported by AngularJS to enrich form filling and validation,4,knowledge
+Write short note on NodeJS.,4,knowledge
+Write a short note on Spring,4,knowledge
+Write a short note on Bootstrap.,4,knowledge
+Design Finite Automata (FA) for accepting strings,4,synthesis
+Prove the formula i) (r * s*)* = (r + s) * ii) (ab)* ¹ a* b*,4,unknown
+Explain graph grammars with a suitable example.,4,comprehension
+Define Halting Problem of Turing Machine with suitable example?,4,knowledge
+What is Post Machine? Explain the formal definition of Post Machine,4,knowledge
+What are tractable and Intractable problems? Explain,4,knowledge
+What is Computational Complexity? Explain.,4,knowledge
+Differentiate between DFA and NFA with suitable example.,4,analysis
+Find the Regular Expression for the set of strings recognized by the given FA.,4,unknown
+Write a context free grammar for the following language 0(0+1)* 01 (0+1)*1.,4,knowledge
+Show by principle of mathematical induction 12 + 22 + 32 + ... + n2 n(n + 1)(2n + 1)/6,4,application
+Consider the Moore machine described by Table 2. Construct the corresponding Mealy Machine,4,comprehension
+Convert the NFA shown in Table 1 to its equivalent DFA,4,application
+Consider the Moore machine described by Table 2. Construct the corresponding Mealy Machine.,4,comprehension
+Explain the purpose of biological treatment of wastewater?,4,comprehension
+Explain difference between suspended growth and attached growth process.,4,comprehension
+Explain Up-flow anaerobic sludge blanket reactor UASBR with neat sketch.,4,comprehension
+Write shorts notes on tretiary treatment of waste water.,4,knowledge
+Enlist and explain types of errors in space based positioning systems.,4,knowledge
+Explain positioning methods used in Space Based Positioning System,4,comprehension
+Enlist the methods of locating sounding and explain any one in detail,4,knowledge
+What is hydrographic surveying? Explain the objectives of hydrographic surveying.,4,knowledge
+Enlist and explain types of errors in space based positioning systems,4,knowledge
+Explain factors governing the positioning accuracy in Space Based Positioning System.,4,comprehension
+Enlist the methods of locating sounding and explain any one in detail.,4,knowledge
+Explain the method for measurement of tide levels in hydrographic survey,4,comprehension
+Explain stepwise procedure of computations of sides of spherical triangle by spherical trigonometry.,4,comprehension
+Explain supervised learning with example.,5,comprehension
+Discuss the reinforcement learning and write in brief the applications.,5,knowledge
+Write a short note on Kernel PCA?,5,knowledge
+Discuss in brief the dictionary learning.,5,unknown
+Explain isotonic regression and write the applications in brief.,5,knowledge
+What do you mean by linearly separable data and non-linearly separable data?,5,knowledge
+Explain the non-linear SVM with example.,5,comprehension
+Define Machine learning and state two examples or applications of Machine Learning in our day to day lives.,5,knowledge
+What do you mean by supervised and Unsupervised learning? Explain one example of each.,5,knowledge
+What do you mean by dictionary learning? What are its applications?,5,knowledge
+Justify the statement: Raw data has a significant impact on feature engineering process,5,knowledge
+Explain different mechanisms for managing missing features in a dataset?,5,comprehension
+What are the criteria or methodology for creation of Training and Testing data sets in machine learning methods?,5,knowledge
+What do you mean by a linear regression? Which applications are best modeled by linear regression?,5,knowledge
+Write a short note on : Types of regression,5,knowledge
+Write and Explain Scikit-learn code for Gaussian naive Bayes classifier.,5,knowledge
+Write and explain data formats for clustering technique.,5,knowledge
+what is a cross-validation? How it improves the accuracy of the outcome?,5,knowledge
+Define and explain Squared Error(SE) and Mean Squared Error(MSE) w.r.t Regression.,5,knowledge
+What is a geometrical machine learning model? Explain it with one example.,5,knowledge
+What is a polynomial regression? How it can be represented in a form of a matrix?,5,knowledge
+What is Machine Learning? Enlist and explain types of Machine Learning.,5,knowledge
+Enlist and explain Models of Machine learning.,5,knowledge
+Discuss functioning of perceptron with suitable diagram of perceptron,5,unknown
+What is soft margin of Support Vector machine. Discuss with suitable diagram.,5,knowledge
+What is hard and soft margin in svm? Explain optimization of soft margin in detail.,5,knowledge
+What is regression? Discuss parameters of regression with examples.,5,knowledge
+Explain KNN algorithm with suitable example.,5,comprehension
+What is linear and non-linear classifier? Explain SVM in detail.,5,knowledge
+Define feature extraction. Explain algorithm of feature extraction in short.,5,knowledge
+What is LDA? Explain it with suitable example and formulae.,5,knowledge
+What is factor analysis? Discuss it with suitable example. ,5,knowledge
+What is a meaning of dimensionality reduction ? Explain any one algorithm of dimension reduction. ,5,knowledge
+Write at least any five Differences between XML and XSLT. ,5,knowledge
+What is a style sheet? How to you create a multi colour text on a web page using CSS?,5,knowledge
+What is use of static & dynamic web page? Enlist applications of static & dynamic web page,5,knowledge
+Describe any three HTML tags from following with simple example? i) head ii) body iii) form iv) table v) marquee,5,comprehension
+Explain with example how to access values of textbox of form using JavaScript?,5,comprehension
+Write a program of your choice to demonstrate the use of DOM.,5,knowledge
+Explain the following document object properties with proper syntax. Give one example. i) document.getElementById() ii) document.getElementByClass() iii) document.getElementByName(),5,knowledge
+Explain how to call JavaScript from an HTML page? Write a program to validate atleast one textfield for empty value?,5,knowledge
+b) Explain any two from the following JDBC API components : i) DriverManager ii) SQLException iii) Connection iv) Statement v) ResultSet,5,knowledge
+Draw and discuss MVC architecture in details.,5,unknown
+Elaborate how you can set up your own website. What are the web technologies are required for the same?,5,knowledge
+Describe the following web technologies? i) XML ii) HTML 5,5,comprehension
+Design a form to accept workshop registration details from participants and validate any five fields using Java Script? (Assume suitable structure),5,synthesis
+Explain Document Object Model (DOM) with suitable example?,5,comprehension
+Write a servlet program to accept username and password from client and verify if username = “ADMIN” and password = “ADMIIN” then redirect to success page otherwise redirect to failure page?,5,knowledge
+Explain Session and Cookies in Servlets? Write any one program to demonstrate session or cookies?,5,knowledge
+Explain the following document object properties with proper syntax? i) document.getElementById() ii) document.getElementByClass() iii) document.getElementByName(),5,knowledge
+List and discuss the different design issues in web development?,5,knowledge
+Write at least any five Differences between HTML and HTML5.,5,knowledge
+Discuss the XSLT technology with an example.,5,unknown
+Write a program of your choice to demonstrate the use of DOM.,5,knowledge
+Write a Java Servlet which will display “welcome to Servlet” message.,5,knowledge
+Explain HttpServlet Request and HttpServlet Response with suitable examples.,5,comprehension
+How to create array and read elements in Java script.,5,synthesis
+Write the differences between include action and include directive in JSP. ,5,knowledge
+List and discuss different design issues in web development?,5,knowledge
+Describe the steps involved when a web browser requests for and obtains a web page from a web server.,5,comprehension
+What are the strengths of XML technology? Explain the need for XML,5,knowledge
+ Write and discuss any five differences between HTML and HTML5,5,knowledge
+When to use JQuery? What are advantages of using JQuery over java,5,knowledge
+What are the different Data Types available in JavaScript? Explain with correct syntax of declaration of it.,5,knowledge
+How to create array in java script? Brief reading of array elements in java script.,5,synthesis
+What is the purpose of DOM node tree? Draw/Create DOM node tree for simple HTML page.,5,knowledge
+Write a java servlet program which will display welcome to Servlet message.,5,knowledge
+List and elaborate any five JSP implicit objects.,5,knowledge
+What is use of is ThreadSafe in JSP? Also Explain Single Thread Model in JSP,5,knowledge
+List and discuss the different design issues in web development.,5,knowledge
+What is selenium web driver? What are the selenium web drives having differences with RC,5,knowledge
+What are selenium test design considerations?,5,knowledge
+What is Selenium? What are the different features of it?,5,knowledge
+Enlist and explain the components of selenium tool.,5,knowledge
+What is ISO standard? what are its advantages?,5,knowledge
+How cost and risk factors are affecting software quality.,5,unknown
+Explain with example product quality metric.,5,comprehension
+Describe in detail defect Removal effectiveness.,5,comprehension
+What are the limitations of Selenium?,5,knowledge
+Why one should select selenium as a test tool?,5,unknown
+What is Selenium? What are the different features of it?,5,knowledge
+Enlist and explain the components of selenium tool.,5,knowledge
+What is ISO standard? What are its advantages?,5,knowledge
+How cost and risk factors are affecting software quality.,5,unknown
+Explain with example Product Quality Metric. ,5,comprehension
+Describe in detail Defect Removal Effectiveness.,5,comprehension
+List automation tools for software testing. Describe QTP in detail.,5,knowledge
+What are selenium test design considerations?,5,knowledge
+Write short note on Selenium Grid.,5,knowledge
+Differentiate between Selenium Web Driver and Selenium RC.,5,analysis
+What is ISO standard? What are its advantages?,5,knowledge
+How cost and risk factors are affecting software quality.,5,unknown
+Describe in detail Defect Injection & Defect Removal activities for a development process.,5,comprehension
+Explain with example Product Quality Metric.,5,comprehension
+List automation tools for software testing. Describe QTP in detail.,5,knowledge
+What are selenium test design considerations?,5,knowledge
+What is selenium Grid? What is the purpose of selenium Grid?,5,knowledge
+What is Selenium RC? Explain its features.,5,knowledge
+Write short note on ISO 7000 quality standards.,5,knowledge
+Explain with example product quality metric.,5,comprehension
+Describe in detail defect injection & defect removal activities for a development process.,5,comprehension
+List and discuss the different design issues in web development.,5,knowledge
+Explain how to call Java Script function from HTML page.,5,comprehension
+What are the strengths of XML technology? Also list the limitations using XML.,5,knowledge
+Write a program of your choice to demonstrate the use of DOM.,5,knowledge
+Create simple JSP pages which will demonstrates use of implicit session object in jsp.,5,application
+Explain HttpServletRequest and HttpServletResponse with suitable examples.,5,comprehension
+How to create an object in Java Script? Explain with suitable examples,5,comprehension
+Write the differences between include action and include directive in JSP,5,knowledge
+What are the DTDs? Explain how do they work?,5,knowledge
+Explain how to create and read array elements in java script.,5,comprehension
+List and discuss any three HTTP commands,5,knowledge
+Write a program of your choice that demonstrate use of properties of DOM.,5,knowledge
+What is use of ThreadSafe in JSP? Also Explain Single Thread Model in JSP.,5,knowledge
+List and elaborate any five JSP implicit objects with examples.,5,knowledge
+Explain the different Data Types available in JavaScript.,5,comprehension
+What is use of JSP action tags? Discuss in details jsp:useBean action tag.,5,knowledge
+Define the terms: i)Website. ii) Web Page. ii) Web Server. iv) URL and V)Home Page,5,knowledge
+Explain the differences between external and internal DTDs.,5,comprehension
+What are XML schemas? How are they better than DTDs?,5,knowledge
+List and describe any five HTML tags.,5,knowledge
+Explain the differences between JavaScript and jQuery.,5,comprehension
+Write an HTML Page and also provide a JavaScript for accepting a user ID and password from the user to ensure the input is not empty.,5,knowledge
+What is the purpose of DOM Node Tree? Draw DOM node tree for simple HTML page.,5,knowledge
+List and brief any five functions in JavaScript.,5,knowledge
+Write advantages of JSP over Servlets? Also explain life cycle of a JSP.,5,knowledge
+Create a servlet in java to get user ID and password parameters which are entered in the form of Login.html file.,5,application
+Write a JSP scriptlet for displaying even numbers between 1 to 50.,5,knowledge
+What are the usage of JSP Directives and JSP Actions.,5,knowledge
+What are the different types of incinerators? Explain any one.,5,knowledge
+Suggest various management technologies for biomedical waste,5,unknown
+Write objectives and major provision in plastic waste management rules -2016.,5,knowledge
+What is Redistribution of moments and what are advantages of it?,5,knowledge
+Explain different parameters of interaction curves for the design of column.,5,comprehension
+Compare different GNSS systems throughout the world.,5,comprehension
+Write Advantages of GPS,5,knowledge
+Define Database? Name the types of data base.,5,knowledge
+Enlist the applications of GIS in Civil Engineering & Explain any one in detail.,5,knowledge
+Explain the elements of visual image interpretation.,5,comprehension
+Explain raster and vector data used in GIS.,5,comprehension
+Write a note on Geostationary and Sun-Synchronous Satellites.,5,knowledge
+What is GIS? Explain various applications of GIS,5,knowledge
+What is GIS? Explain the components of GIS.,5,knowledge
+Explain raster and vector data used in GIS.,5,comprehension
+Write a note on Geostationary and Sun-Synchronous Satellites,5,knowledge
+Explain the use of electromagnetic spectrum in remote sensing and significance of atmospheric windows.,5,comprehension
+What is SBPS? State and explain GAGAN system.,5,knowledge
+Explain the graphical method of solving three point problem.,5,comprehension
+Explain the term sounding and explain any two methods of locating the sounding positions,5,comprehension
+Differentiate between raster data and vector data with example,5,analysis
+What are the different types of errors in GPS observation and explain anyone of them.,5,knowledge
+Explain Remote sensing applications in disaster management with suitable example.,5,comprehension
+What kinds of error in triangulation adjustment? Explain in detail,5,knowledge
+What is SBPS? State and explain various components of GPS.,5,knowledge
+Explain the concept of intervisibility & height of triangulation station with neat sketches?,5,comprehension
+Explain the method of co-relates of adjustment of braced Quadrilateral,5,comprehension
+List out various potential error sources which affect the GPS signal or result.,5,knowledge
+How would you determine the flying height of a vertical photograph?,5,unknown
+Explain with neat sketches any two equipments used for measuring sounding.,5,comprehension
+What is hydrographic surveying? State the various objects of carrying out hydrographic surveying.,5,knowledge
+Describe the procedure of measuring parallax difference using a Parallax bar.,5,comprehension
+Distinguish between terrestrial and aerial photography. Under what circumstances you will recommend them.,5,knowledge
+Explain the role of machine learning algorithms in following applications. a) Spam filtering. b) Natural Language processing.,6,comprehension
+Explain Data formats for supervised learning problem with example,6,comprehension
+What is categorical data? What is its significance in classification problems?,6,knowledge
+What is Overfitting and Underfitting in machine learning model? Explain with an example,6,knowledge
+Differentiate with an example Label encoder and One Hot encoder for managing categorical data.,6,knowledge
+Explain Data formats for supervised learning problem with example.,6,comprehension
+What is the need of Dimensionality Reduction in machine learning? How PCA is used for dimensionality reduction?,6,knowledge
+What is over fitting in machine learning? What are the different methods to overcome the over fitting problem. Describe in brief.,6,knowledge
+What is Gaussian Mixture Model or Mixture of Gaussian (GMM)? Compare GMM with Clustering (any 3 points).,6,knowledge
+What is the need if dimensionality reduction? Explain subset selection.,6,knowledge
+What are the support vectors and margins? Explain soft SVM and hard SVM.,6,knowledge
+Elaborate Bias Variance dilemma.,6,unknown
+Write short note on feature tree & write best split algorithm.,6,knowledge
+Explain following impurity measures of classifiers. i) Gini Index. ii) Entropy.,6,comprehension
+Draw and describe how machine learning is used to address a given task.,6,comprehension
+What is overfitting ? Specify the reasons for overfitting.,6,knowledge
+Write a note on Compression based model.,6,knowledge
+what do you mean by zero centred and un-correlated features? What is the use of it in the solution of multivariate linear regresson?,6,knowledge
+What is Multi dimensional arrays in PHP? Explain it with simple PHP code.,6,knowledge
+List and explain different values of readystate and status property of the HTTPRequestObject.,6,knowledge
+Explain server side include in PHP with sample code.,6,comprehension
+What are the technologies used in traditional web programming? Also identify location of each technology used in this model.,6,knowledge
+What is MVC? Draw and explain MVC architecture for developing web applications.,6,knowledge
+Define Software Quality. List and explain Core Components of Quality.,6,knowledge
+Explain following terms: i) Benchmarking ii) Metrics iii) Defect,6,comprehension
+What is Software Testing? Explain Big Bang testing approach in detail.,6,knowledge
+List and explain in brief four types in RTM. ,6,knowledge
+What is test automation? Explain any one testing tool in detail. ,6,knowledge
+What is Data Driven Testing(DDT)? Explain data driven testing framework with suitable Diagram. ,6,knowledge
+What is software quality? what is mean by quality attribute of the software?,6,knowledge
+Explain continual improvement cycle with neat labeled diagram of plan-Docheck-Act (PDCA) framework.,6,knowledge
+What is selenium? What are different features of selenium IDE?,6,knowledge
+Describe selenium web driver architecture with the help of neat diagram.,6,comprehension
+What does SQA ensure? what are the goals of SQA?,6,knowledge
+State & explain principles of quality management.,6,knowledge
+What is six sigma? Explain the terms DMAIC & DMADV.,6,knowledge
+Define software Quality and software quality assurance . List the various objectives of SQA.,6,knowledge
+Enumerate Ishikawa’s seven basic quality tools. Explain any two in detail.,6,comprehension
+Describe key elements of total quality management.,6,comprehension
+Write short note on total quality management (TQM),6,knowledge
+Explain following terms (any two) i) control chart ii) Scatter diagrams iii) Checklists,6,knowledge
+What is Selenium? What are the different Selenium components?,6,knowledge
+Describe selenium Web Driver architecture with the help of neat diagram.,6,comprehension
+What does SQA ensure? What are the goals of SQA? ,6,knowledge
+State & explain Principles of Quality management.,6,knowledge
+What is Six Sigma? Explain the terms DMAIC & DMADV.,6,knowledge
+Define Software Quality & Software Quality Assurance. List the various objectives of SQA.,6,knowledge
+Enumerate Ishikawa’s seven basic quality tools. Explain any two in detail.,6,comprehension
+Describe key elements of Total Quality Management.,6,comprehension
+Write short note on Total Quality Management (TQM).,6,knowledge
+Explain following terms (any two) Pareto Chart Scatter Diagrams Cause and effect diagrams. ,6,comprehension
+What is Software Quality? Explain continual improvement cycle with neat labeled diagram of PDCA framework. ,6,knowledge
+What is Selenium? What are different features of Selenium IDE?,6,knowledge
+State & explain the components of Selenium tool.,6,knowledge
+What is SQA? List various elements of SQA & describe any two in detail.,6,knowledge
+State & explain Principles of Quality management.,6,knowledge
+What is Six Sigma? Explain the terms DMAIC & DMADV.,6,knowledge
+What are different quality dimensions suggested by Garvin?,6,knowledge
+Write short note on Total Quality Management (TQM).,6,knowledge
+Explain following terms (any two) i) Checklists ii) Histogram iii) Run Charts ,6,knowledge
+Enumerate Ishikawa’s seven basic quality tools. Explain any two in detail.,6,comprehension
+Describe key elements of Total Quality Management.,6,comprehension
+What is Selenium? What are different fetures of selenium IDE?,6,knowledge
+State & explain the components of selenium tool. ,6,knowledge
+Discuss Principles of Quality management.,6,unknown
+Explain Software Quality Assurance and elements of SQA.,6,comprehension
+What is Six Sigma? Explain the terms DMAIC & DMADV.,6,knowledge
+Define Software Quality & Software Quality Assurance. List the various objectives of SQA.,6,knowledge
+Enumerate Ishikawa’s seven basic quality tools. Explain any two in detail.,6,comprehension
+Describe key elements of Total quality management.,6,comprehension
+Write short note on Total Quality Management approach.,6,knowledge
+Explain following terms (any two) i) Checklists ii) Histogram iii) Run charts,6,knowledge
+With respect Quality Management Systems explain the following. i) Quality Management Systems Structure ii) Pillars of Quality Management System iii) Important aspects of quality management,6,comprehension
+What is automated testing in software testing? How do we decide what to automate in testing and the scope of automation?,6,knowledge
+What is Multi dimensional arrays in PHP? Explain it with simple PHP code.,6,knowledge
+List and explain different values of readystate and status property of the HTTPRequestObject.,6,knowledge
+Explain server side include in PHP with sample code.,6,comprehension
+What are the technologies used in traditional web programming? Also identify location of each technology used in this model.,6,knowledge
+What is MVC? Draw and explain MVC architecture for developing web applications.,6,knowledge
+What are the different configuration files are require to develop any struts application? Explain each configuration file.,6,knowledge
+Identify and explain data tags from struts2 which are used to manipulate data displayed on any web application page.,6,comprehension
+What are the different types of EJB? Identify and explain situations about when to use session beans.,6,knowledge
+What are the web services? List and discuss components of web services.,6,knowledge
+Draw and explain how AJAX works with the help of suitable example.,6,comprehension
+What is use of XMLHttpRequest Object? Explain its use with the help of simple javascript code.,6,knowledge
+What is an associate arrays in PHP? Explain it with the help of simple PHP code.,6,knowledge
+Identify and explain steps involved in connecting to MySQL with PHP,6,comprehension
+Does Angular JSsupports Single Page Application via multiple views on a single page? Justify your answer.,6,evaluation
+Draw and explain neat diagram which depicts MVC to the struts architecture.,6,comprehension
+How to use interceptors in struts 2? List and d interceptors provided by struts 2 framework,6,knowledge
+What are different ways to create service in Angul of concern in AngularJS.,6,knowledge
+Identify and justify the benefits of using web services.,6,evaluation
+Draw and explain the role of EJB container in Enterprise applications.,6,comprehension
+Construct a DFA with reduced states equivalent to the regular expression 8 + (0+11)0*1.,6,knowledge
+number. Convert it into its equivalent Mealy machine.,6,unknown
+Convert the following CFG into Chomksy Normal Form (CNF): S -> AB A -> CA | ^ B -> DB | ^ C -> 011 | 1 D -> 01,6,unknown
+Construct DFA for the following: i) String having length at most 2. ii) Every “a” is followed by “b”. iii) Set of all strings end with ab.,6,unknown
+State Principle of Mathematical Induction and apply it to show that n4 4n2 is divisible by 3 for all n>0,6,knowledge
+Construct NFA for the regular expression b+ba*,6,unknown
+Prove by Mathematical Induction 20+21+22+23+.......+2n=2n+1 –1 for all integers n>=0,6,unknown
+Prove or disprove the given regular expression i) (r*s*) = (r + s)* ii) s(rs + s)* r = rr*s(rr*s)*r,6,unknown
+Define Pumping Lemma and apply it to prove the following L = {0m 1n 0m+n | m>=1 and n >=1} is not regular,6,knowledge
+State Principle of Mathematical Induction and apply it to Show that  1+4+7+....(3n-2) = n(3n-1) / 2 for n>0,6,knowledge
+State Principle of Mathematical Induction and apply it to show that nR - 4nP is divisible by 3 for all n>0,6,knowledge
+What is PDA? What are the different types of PDA? Give its applications.,6,knowledge
+What is Kleen Closure? What is Positive closure? For a given language L under what Circumstances will L+ and L* equal?,6,knowledge
+Design a Moore machine for computing the 2's complement of a binary number. Convert it into its equivalent Mealy machine,6,synthesis
+Convert the following CFG into Chomsky Normal form (CNF) S->ASA|aB A->B|S B->b|ε,6,unknown
+Suggest and justify the criteria adopted for the execution of vermicomposting.,6,evaluation
+Explain with sketch the Bangalore Method of composting,6,comprehension
+Write a note on material recovery facility.,6,knowledge
+Specify the role of transfer station in municipal solid waste management.,6,unknown
+Explain integrated waste management.,6,comprehension
+What are the factors affecting anaerobic digestion?,6,knowledge
+Write environmental impacts of waste to energy system.,6,knowledge
+How to estimate of low and high heating value of any material.,6,unknown
+Write short note on legacy waste management.,6,knowledge
+Write methods of slope stability analysis.,6,knowledge
+Describe the factors which affect production of leachate and landfill gas in the landfill?,6,comprehension
+What is engineered landfill? Why it is essential? Explain in brief different methods of landfilling.,6,knowledge
+Enlist methods of Biomining and explain any one method of it.,6,knowledge
+Identify the adverse effects of a landfill leachate and list appropriate control measures?,6,knowledge
+Suggest the appropriate method for disposal of industrial solid waste and need of its recycling.,6,unknown
+Explain any one case study of material recovered from e-waste,6,comprehension
+Write objectives and major provision in construction and demolition (C&D) waste management rules - 2016.,6,knowledge
+Explain any one case study of processing and reuse of construction & demolition waste.,6,comprehension
+Describe Global Navigation satellite system in detail.,6,comprehension
+Explain the necessity of GNSS in various fields.,6,comprehension
+Define IRNSS and illustrate its structure,6,knowledge
+Define DGPS. Write sources of errors of DGPS,6,knowledge
+List the image interpretation keys and explains any two in detail with the help of necessary diagram.,6,knowledge
+Describe digital image classification (supervised & unsupervised).,6,comprehension
+Define Triangular Irregular network Model (TIN) and its applications.,6,knowledge
+What is Digital Image Processing? What are the most common image processing functions.,6,knowledge
+Differentiate between Visual and Digital image interpretation.,6,comprehension
+State the application of DEM.,6,knowledge
+Write in detail about various components of GIS.,6,knowledge
+Illustrate Cloud computing with types and applications.,6,unknown
+Write a note on fundamentals of Cartography and map creation in GIS,6,knowledge
+Define Geographical Information system and state spatial data types.,6,knowledge
+Define Raster and Vector Data types. Explain with neat diagram.,6,knowledge
+Explain the application of GIS in Demarcation of Dam Catchment.,6,comprehension
+Enumerate different Attribute Data models and explain any one of them.,6,comprehension
+Write GIS data types and its representation.,6,knowledge
+Explain the application of GIS in Urban Planning,6,comprehension
+What is Georeferencing of GIS data? And explain its importance in the field of GIS?,6,knowledge
+Derive the analytical solution of three point problem,6,unknown
+Explain in brief the various triangulation figures commonly adopted and compare its merits and demerits.,6,comprehension
+Derive the analytical solution of three point problem.,6,unknown
+While doing an underground survey describe the transferring the surface alignment through a Shaft with the help of neat sketch?,6,comprehension
+Write shorts notes on: i) Bernoulli naive Bayes. ii) multinomial naive Bayes. iii) Gaussian naive Bayes.,7,knowledge
+Write short notes on: a) Adaboost. b) Gradient Tree Boosting. c) Voting Classifier.,7,knowledge
+b) Write short notes on : i) Bernoulli naive Bayes ii) Multinomial naive Bayes iii) Gaussian naive Bayes,7,knowledge
+Write short notes on : i) Bagging ii) Boosting iii) Random Forests,7,knowledge
+Define cluster tree? Write and explain Agglomerative Clustering algorithm.,7,knowledge
+Explain Deep Learning. What are the challenges in Deep Learning?,7,knowledge
+Write a short note on: i) Sequence Prediction ii) Sequence Classification iii) Sequence Generation,7,knowledge
+What is use of JSF? Write differences between SOAP and REST in detail?,7,knowledge
+List the difference between entity bean and session bean? Explain the callback method?,7,knowledge
+Write brief note on following : i) Wordpress ii) Spring,7,knowledge
+What traceability matrix? Explain requirement traceability matrix with example. List advantages of requirement traceability Matrix.,7,knowledge
+What is driving data deluge? Explain with one example.,7,knowledge
+What is data science? Differentiate between Business Intelligence and Data Science.,7,knowledge
+What are the sources of Big Data. Explain model building phase with example.,7,knowledge
+Explain big data analytics architecture with diagram. What is data discovery phase. Explain with example,7,knowledge
+What are association rules? Explain Apriori Algorithm in brief.,7,knowledge
+Explain scikit-learn library for matplotlib with example.,7,comprehension
+What is clustering? With suitable example explain the steps involved in k - means algorithm.,7,knowledge
+Describe the Data visualization tool “Tableau”. Explain its applications in brief,7,comprehension
+Describe the challenges of data visualization. Draw box plot and explain its usages.,7,comprehension
+Design Turing machine for anbncn |n> 1,7,synthesis
+Write a short note on : i) Universal Turing Machine. ii) Recursively Enumerable Language,7,knowledge
+Construct a Turing machine which accepts even numbers of 0’s and odd number of 1’s.,7,unknown
+What are the different ways for extension of Turing machine? Construct the two tape Turing machine to convert an input W into WWR.,7,knowledge
+What is a Turing Machine? Give the formal definition of TM. Design a TM that replaces every occurrence of xyy by yxx.,7,knowledge
+Write short note on : i) Halting Problem of Turing Machine. ii) Universal Turing Machine (UTM). iii) Recursively Enumerable Languages,7,knowledge
+What are the different ways for extension of TM? Explain. Construct a two tape TM to convert an input W into WWR.,7,knowledge
+Construct a PDA that accept L = {anbn|n≥ 1} through Empty stack,7,unknown
+Write a short note on a) Unrestricted Grammar b) CFG c) Derivation Graph,7,knowledge
+What is a Turing Machine? Give the formal definition of TM. Design a TM to compute multiplication of two unary numbers.,7,knowledge
+What are the different ways for extension of TM? Explain. Construct a two tape TM to convert an input  into .,7,knowledge
+What are the different ways for extension of TM? Explain. Construct a two tape TM to convert an input W into WW,7,knowledge
+What are B-spline curves? How the geometric continuity is determined for B spline curves?,7,knowledge
+Explain the applications of B spline and Bezier curves in robot path planning.,7,comprehension
+Obtain the table containing all basis blades in 3 dimension.,7,unknown
+Explain the applications of applied geometric algebra for modelling of robotics physics.,7,comprehension
+Draw flow diagram of activated sludge process and explain its working.,7,comprehension
+Explain the construction and working of oxidation pond with neat labeled sketch.,7,knowledge
+Explain the construction and working of Trickling filter with labeled sketch.,7,knowledge
+Explain the construction and working of Septic Tank,7,comprehension
+Explain the working of Sequential batch reactor (SBR) and Moving bed bio reactor (MBBR) in detail.,7,comprehension
+Explain the working of Fluidized membrane bioreactor (FMBR) and membrane bio reactor (MBR) in detail.,7,comprehension
+Draw a neat sketch of single stage anaerobic digester and explain its working.,7,comprehension
+Explain driving forces for recycling and reuse of waste water.,7,comprehension
+Describe the role of machine learning in the following applications : a) Google home or Alexa b) Unmanned Vehicles,8,comprehension
+Explain in brief the feature selection and discuss in details any suitable feature selection method,8,comprehension
+Explain in detail the Ridge regression and the Lasso regression.,8,comprehension
+Explain role of machine learning the following common un-supervised learning problems: a) Object segmentation b) Similarity detection,8,comprehension
+Define Bayes Theorem. Elaborate Naive Bayes Classifier working with example.,8,knowledge
+Explain the structure of binary decision tree for a sequential decision process.,8,comprehension
+Justify with elaboration the following statement: The k-means algorithm is based on the strong initial condition to decide the Number of clusters through the assignment of ‘k’ initial centroids or means.,8,knowledge
+Write short notes on (any 2) a) Linearly and non- linearly separable data b) Classification techniques c) ROC curve,8,knowledge
+How Ridge Regression help for regularizing linear models? Write Scikit-Learn code for Ridge Regression.,8,knowledge
+What do you mean by Logistic Regression? Explain with example.,8,knowledge
+What do you mean by Support Vector Machine? Explain with example.,8,knowledge
+Explain with example how Bayes theorem helps to classify the data using Naïve Bayes Classification technique.,8,comprehension
+Explain with example the role of attribute selection measure in building decision tree.,8,comprehension
+Explain with example Naïve User based Recommendation systems.,8,comprehension
+What is agglomerative clustering? Explain with example.,8,knowledge
+Explain with example common architectural principles of deep networks.,8,comprehension
+Describe Parametric and non parametric learning with their advantages and limitations. State any four applications where machine learning is used?,8,knowledge
+What is Learning vector Quantizer (LVQ)? How target values in the data are used while training in LVQ? How the code vectors are obtained in LVQ?,8,knowledge
+Describe the learning algorithm for Radial Basis Function network (RBFN). Explain with suitable example how radial basis functions are used in training.,8,comprehension
+What is Dropout? How it solve problem of over fitting? Give the process of implementing dropout in deep neural networks.,8,knowledge
+How deep learning overcomes the challenges in conventional machine learning techniques? Draw and explain the architecture of Convolutional Neural networks.,8,comprehension
+What is vanishing gradient problem in multilayered neural networks? Explain how the saturation in activation affects the gradients?,8,knowledge
+Explain Expectation - maximization algorithm.,8,comprehension
+Explain deep learning with applications.,8,comprehension
+Explain the architecture of feed forward neural network. Give its limitations.,8,comprehension
+List and explain various distance fuctions.,8,knowledge
+What is a normal distribution? Describe properties of normal distribution.,8,knowledge
+What is the Naïve Bayes assumption. Define and explain Bayes Optimal Classifier.,8,knowledge
+What is an Ensemble Model. Explain Bagging in detail.,8,knowledge
+What is multi-task learning ? Explain various applications of it.,8,knowledge
+Explain Sequence Prediction model. What are the different measure to decide the goodness of the sequence prediction model.,8,knowledge
+How does On-line learning differ from batch learning algorithms.,8,unknown
+Define with respect to Association Rule Mining: i) Support ii) Confidence iii) Lift,8,knowledge
+Define and explain: i) Burnoulli's Distribution ii) Binomial Distribution,8,knowledge
+Write and explain Naïve Bayes Classification Algorithm.,8,knowledge
+Describe Normal Distribution with its features.,8,comprehension
+Can we ensemble multiple models of same Machine Learning algorithm? Describe,8,comprehension
+Explain Multi-task learning with Task grouping and overlap methodology.,8,comprehension
+What is Linear discriminate analysis? Explain in detail,8,knowledge
+Write an algorithm of ID3. Explain each step in detail.,8,knowledge
+Write and explain K-means clustering algorithm with example.,8,knowledge
+Discuss Expectation Maximization methods in detail.,8,unknown
+Write a short note on : a) Diagnosis of human disease b) Author identification,8,knowledge
+Write a short note on : a) Learning to rate vulnerabilities and predict exploits b) Prediction and forecasting,8,knowledge
+Write a short note on. a) Learning to rate vulnerabilities b) Intrusion Defection & preventation.,8,knowledge
+Write a short note on: a) Detecting malicious in websites.b) Credit card fraud detection.,8,knowledge
+Write a short note on : a) Topic models of under ground Internet economy. b) Detection of malicious websites in adversarial classification.,8,knowledge
+Write a short note on: a) Learning to rate vulnerabilities and predict exploits. b) Profiling the online storefronts of counterfeit merchandise.,8,knowledge
+List and Explain steps involved in connecting to MySQL with PHP?,8,knowledge
+What is purpose of AJAX? Explain with relevant example?,8,knowledge
+What is Multi dimensional arrays in PHP? Explain it with simple PHP code?,8,knowledge
+Explain how session and cookies are used for session management in PHP?,8,comprehension
+What is Angular JS? List and explain various directives in Angular,8,knowledge
+What is Dependency Injection mechanism in AngularJS? List components of this mechanism and explain any one with relevant example?,8,knowledge
+Explain how angular JS integrates with HTML?,8,comprehension
+What are the different configuration files are requires to develop any struts application? Explain each configuration file.,8,knowledge
+Classify data type of PHP and describe various data types in each type.,8,comprehension
+Explain with simple example the XMLHttp Request Object. List and explain different values of readystate and status property of the HTTP Request object.,8,knowledge
+What is Associate arrays in PHP? Explain it with simple PHP code.,8,knowledge
+What are the technologies used in traditional web programming? Also identify location of each technology used in this model.,8,knowledge
+Draw and explain neat diagram which depicts MVC to the struts architecure.,8,comprehension
+Write sample Angular JS application which can demostrate used of different type of expressions.,8,knowledge
+Identify and explain data tags from struts 2 which are used to manipulate data displayed on any web application page.,8,comprehension
+What are the web services? List and explain layers in protocol stack of web serivce architecture.,8,knowledge
+Draw and explain scenerio of client accesing remote EJB. List some of the EJB clients.,8,knowledge
+Write EJB code to aquire JNDI conext through (i). default JNDI properties and (ii). Seperate JNDI properties,8,knowledge
+Draw and explain each tier of three tiers architecture using EJB.,8,comprehension
+Draw and explain scenerio of client accessing remote EJB. List some of the EJB clients,8,knowledge
+Write EJB code to acquire JNDI context through i)default JNDI properties and ii) Seperate JNDI properties,8,knowledge
+What is Enterprise Java Bean? Draw and explain main components of EJB architecture.,8,knowledge
+Decide and explain various aspects while deciding between local and remote interface can be considered.,8,comprehension
+Explain various data pre-processing steps. Discuss essential python libraries for preprocessing.,8,comprehension
+With a suitable example explain Histogram and explain its usages,8,comprehension
+With a suitable example explain and draw a Box plot and explain its usages.,8,comprehension
+What is Clique Problem? Show that it is NP Complete Problem?,8,knowledge
+What do you mean by polynomial time reduction? Describe any problem in detail that is solvable through polynomial time reduction,8,knowledge
+Write a short note on following: i) Tractable and Intractable Problem. ii) SAT Problem.,8,knowledge
+What do you mean by NP Problems? Justify Why Travelling Salesman problem is a NP-Problem?,8,knowledge
+What is PDA? What are the different ways of constructing a PDA? Explain each with example,8,knowledge
+What do you mean by NP-Problems? Justify why the Travelling Salesman problem is a NP-Problem.,8,knowledge
+What do you mean by Polynomial Time Reduction? Explain with suitable example.,8,knowledge
+What is Kruskals Algorithm? How can we solve this problem using Turing Machine?,8,knowledge
+What is Clique Problem? Show that it is a NP-Complete problem.,8,knowledge
+Construct CFG for the language L={0i1j2k | j< k },8,unknown
+Construct Finite Automata for 01[((8*)+111*)+0]*1 • • 1(1+8)*+8(0+01)*,8,unknown
+What is NPDA? Construct a NPDA for L={ai bj ck | i≠ j or j≠ k},8,knowledge
+What do you mean by NP-Complete problems? List all the problems in the class and explain any one in detail.,8,knowledge
+Why do we need to reduce the given problem to Np-complete problem?Explain with suitable example.,8,comprehension
+What is SAT problem? Explain in detail.,8,knowledge
+Construct TM which accepts even palindrome strings over the Σ={a.b},8,unknown
+Explain travelling salesperson problem,8,comprehension
+Write short note on: i) Recursively Enumerable Languages. ii) Halting Problem of Turing Machine,8,knowledge
+What is a post machine? Give formal definition of Post machine. Construct a Post Machine for Accepting strings having odd length and a or b as centre element.,8,knowledge
+What is a PDA? Construct a PDA that accept L = {ab n ≥1} through Final State.,8,knowledge
+What is Kruskals Algorithm? How can we solve this problem using Turing Machine?,8,knowledge
+What do you mean by Polynomial Time Reduction? Explain with suitable example.,8,knowledge
+What do you mean by NP-Problems? Justify why the Travelling Salesman problem is a NP-Problem.,8,knowledge
+What is Clique Problem? Show that it is a NP-Complete problem.,8,knowledge
+What do you mean by Polynomial Time Reduction? Explain with suitable example.,8,knowledge
+What is Clique Problem? Show that it is a NP-Complete problem.,8,knowledge
+What do you mean by Polynomial Time Reduction? Explain with suitable example.,8,knowledge
+What is Clique Problem? Show that it is a NP-Complete problem.,8,knowledge
+What do you mean by NP-Problems? Justify why the Travelling Salesman problem is a NP-Problem.,8,knowledge
+What is Kruskals Algorithm? How can we solve this problem using Turing Machine? V,8,knowledge
+Write short note on: Outer product of 3D vectors,8,knowledge
+Derive an expression for displacement due to ground relief.,8,unknown
+Explain clearly what is meant by side equation? How would you adjust a geodetic quadrilateral without central station?,8,knowledge
+What is spherical excess? What are the methods of computing the sides of a spherical triangle? Explain any one method,8,knowledge
+Explain following for Testing Process. a) Misconceptions. b) Principles. c) Salient and policy of Software testing. d) Test Strategy. e) Test Planning.,10,comprehension
+a) What is Test Automation. b) Different terms used in automation. c) Skills needed for automation. d) What to automate. e) How to define scope of automation.,10,knowledge

@@ -1,0 +1,11 @@
+question,predicted_marks
+Describe Parametric and non parametric learning with their advantages and limitations. State any four applications where machine learning is used?,8
+List and explain various distance fuctions.,8
+"With reference to Clustering, explain the issue of “Optimization of clusters”",7
+What is vanishing gradient problem in multilayered neural networks? Explain how the saturation in activation affects the gradients?,7
+Elaborate Bias Variance dilemma.,6
+What are the support vectors and margins? Explain soft SVM and hard SVM.,6
+Write short note on feature tree & write best split algorithm.,5
+What is the need if dimensionality reduction? Explain subset selection.,5
+Explain Evaluation methods for clustering algorithms.,4
+Write a short note on : Types of regression,4

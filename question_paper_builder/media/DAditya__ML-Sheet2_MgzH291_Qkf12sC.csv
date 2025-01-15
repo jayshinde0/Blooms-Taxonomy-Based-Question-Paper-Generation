@@ -1,0 +1,69 @@
+question
+Explain supervised learning with example.
+Discuss the reinforcement learning and write in brief the applications.
+What do you mean by linearly separable data and non-linearly separable data?
+Describe the role of machine learning in the following applications : a) Google home or Alexa b) Unmanned Vehicles
+Explain in brief the feature selection and discuss in details any suitable feature selection method
+Explain Data formats for supervised learning problem with example
+What is categorical data? What is its significance in classification problems?
+Explain role of machine learning the following common un-supervised learning problems: a) Object segmentation b) Similarity detection
+Explain the non-linear SVM with example.
+Define Machine learning and state two examples or applications of Machine Learning in our day to day lives.
+What do you mean by supervised and Unsupervised learning? Explain one example of each.
+"What is principal component Analysis (PCA), when it is used?"
+What do you mean by dictionary learning? What are its applications?
+Justify the statement: Raw data has a significant impact on feature engineering process
+Explain different mechanisms for managing missing features in a dataset?
+"With reference to feature engineering, explain data scaling and normalization tasks?"
+What are the criteria or methodology for creation of Training and Testing data sets in machine learning methods?
+What do you mean by a linear regression? Which applications are best modeled by linear regression?
+Write a short note on : Types of regression
+Write short notes on (any 2) a) Linearly and non- linearly separable data b) Classification techniques c) ROC curve
+Write shorts notes on: i) Bernoulli naive Bayes. ii) multinomial naive Bayes. iii) Gaussian naive Bayes.
+Write short notes on: a) Adaboost. b) Gradient Tree Boosting. c) Voting Classifier.
+What is Overfitting and Underfitting in machine learning model? Explain with an example
+Differentiate with an example Label encoder and One Hot encoder for managing categorical data.
+How Ridge Regression help for regularizing linear models? Write Scikit-Learn code for Ridge Regression.
+Explain Data formats for supervised learning problem with example.
+What do you mean by Logistic Regression? Explain with example.
+What do you mean by Support Vector Machine? Explain with example.
+b) Write short notes on : i) Bernoulli naive Bayes ii) Multinomial naive Bayes iii) Gaussian naive Bayes
+Explain with example how Bayes theorem helps to classify the data using Naïve Bayes Classification technique.
+Differentiate between linear SVM and non-linear SVM.
+Write and Explain Scikit-learn code for Gaussian naive Bayes classifier.
+Explain with example the role of attribute selection measure in building decision tree.
+Write and explain data formats for clustering technique.
+Explain Elbow method for finding optimal number of clusters.
+Write short notes on : i) Bagging ii) Boosting iii) Random Forests
+Explain with example Naïve User based Recommendation systems.
+What is agglomerative clustering? Explain with example.
+Explain with example common architectural principles of deep networks.
+"What do you mean by linear regression? With suitable example, describe how linear regression is used to predict the output for test example/input sample. What is non linear regression?"
+"Why Support vector machines are called as Kernel Machines? Using Gaussian Kernel, describe how non-linear decision boundaries are obtained in SVM."
+What is the need of Dimensionality Reduction in machine learning? How PCA is used for dimensionality reduction?
+Describe Parametric and non parametric learning with their advantages and limitations. State any four applications where machine learning is used?
+What is over fitting in machine learning? What are the different methods to overcome the over fitting problem. Describe in brief.
+What is Gaussian Mixture Model or Mixture of Gaussian (GMM)? Compare GMM with Clustering (any 3 points).
+"Describe with the help of suitable example, the algorithm for Hebbian learning rule."
+"What are the various features of ANN? With the help of neuron architecture, state and explain the resemblance (similarity) of ANN to biological neural network."
+How deep learning overcomes the challenges in conventional machine learning techniques? Draw and explain the architecture of Convolutional Neural networks.
+What is vanishing gradient problem in multilayered neural networks? Explain how the saturation in activation affects the gradients?
+What are Linear support vector machines? Explain with example.
+"Explain with example the variant of SVM, the Support vector regression."
+"With reference to Clustering, explain the issue of “Optimization of clusters”"
+Explain Evaluation methods for clustering algorithms.
+What is the need if dimensionality reduction? Explain subset selection.
+Write short note on PCA.
+"Compare Supervised, Unsupervised, Semi-Supervised Learning with examples."
+"What is training, testing and cross validation of machine learning models."
+What are the support vectors and margins? Explain soft SVM and hard SVM.
+What is overfitting and underfitting? What are the catalysts of overfitting?
+Elaborate Bias Variance dilemma.
+Write short note on feature tree & write best split algorithm.
+Explain following impurity measures of classifiers. i) Gini Index. ii) Entropy.
+Explain Expectation - maximization algorithm.
+Explain deep learning with applications.
+What is overfitting ? Specify the reasons for overfitting.
+List and explain various distance fuctions.
+"Define and explain single linkage, complete linkage and average linkage with neat diagram."
+Write a note on Compression based model.

@@ -1,0 +1,73 @@
+question
+What is the latest version of the Android operating system?
+Which company developed the Android operating system?
+What programming language is primarily used to develop Android applications?
+What is the purpose of the Android Debug Bridge (ADB)?
+Name one popular integrated development environment (IDE) used for Android app development.
+What is the significance of the Linux kernel in the Android OS architecture?
+What is the purpose of the Android Virtual Device (AVD) in app development?
+What are the four main components of an Android application?
+Explain the difference between an Activity and a Fragment in Android.
+What is the Android Manifest file used for?
+What is the purpose of the Android Asset Packaging Tool (AAPT)?
+What is the role of the Dalvik Virtual Machine (DVM) in Android?
+Explain the concept of an Intent in Android.
+What is the purpose of the Layout XML files in Android?
+What is an APK file in the context of Android?
+What are the different types of storage options available in Android?
+Explain the difference between Shared Preferences and SQLite databases in Android.
+What is the Android Application Sandbox?
+What is the importance of permissions in Android application development?
+What is the significance of the Android Support Library?
+Explain the concept of Activities Lifecycle in Android.
+What are the key differences between Android and iOS operating systems?
+What is the purpose of the Android Software Development Kit (SDK)?
+What are the main security features of the Android operating system?
+Explain the concept of Android Runtime (ART).
+What is the Android NDK and when is it used?
+What is the significance of Material Design in Android app development?
+What is the purpose of the Android Package Manager (APM)?
+Explain the concept of content providers in Android.
+What is the purpose of the Android Application Framework?
+What is the purpose of the Android Activity Manager?
+Explain the concept of Intents Filters in Android.
+What is the Android Application Lifecycle?
+What is the significance of the Android Gradle build system?
+Explain the difference between a Service and a Broadcast Receiver in Android.
+What are the main components of the Android User Interface (UI) toolkit?
+What is the purpose of the Android Notification Manager?
+Explain the concept of Fragments Lifecycle in Android.
+What is the Android Data Binding Library and how is it used?
+What is the purpose of the Android Resource Manager?
+Explain the role of the Android Asset Manager in app development.
+What is the purpose of the Android Runtime Permissions system?
+What is the role of the Android View System in UI development?
+Explain the difference between LinearLayout and RelativeLayout in Android layouts.
+What is the purpose of the Android AppCompat library?
+What are the main features of the Android Jetpack library?
+Explain the concept of AsyncTask in Android.
+What is the purpose of the Android JobScheduler API?
+What is the purpose of the Android ContentResolver?
+Explain the concept of Material Components in Android.
+What are the main components of the Android Architecture Components?
+What is the purpose of the Android ViewModel class?
+Explain the concept of Dependency Injection in Android.
+What is the purpose of the Android Room Persistence Library?
+What is the significance of the Android Handler class?
+Explain the concept of Android Application Themes.
+What is the purpose of the Android ConstraintLayout?
+What is the significance of the Android App Bundle format?
+Explain the concept of Android View Binding.
+What are the main features of the Android DataStore library?
+What is the purpose of the Android ContentResolver?
+Explain the concept of Material Components in Android.
+What are the main components of the Android Architecture Components?
+What is the purpose of the Android ViewModel class?
+Explain the concept of Dependency Injection in Android.
+What is the purpose of the Android Room Persistence Library?
+What is the significance of the Android Handler class?
+Explain the concept of Android Application Themes.
+What is the purpose of the Android ConstraintLayout?
+What is the significance of the Android App Bundle format?
+Explain the concept of Android View Binding.
+What are the main features of the Android DataStore library?

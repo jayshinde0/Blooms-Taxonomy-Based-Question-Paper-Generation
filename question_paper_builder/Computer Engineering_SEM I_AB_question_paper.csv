@@ -1,0 +1,11 @@
+question,predicted_marks
+Explain role of machine learning the following common un-supervised learning problems: a) Object segmentation b) Similarity detection,8
+Describe the role of machine learning in the following applications : a) Google home or Alexa b) Unmanned Vehicles,8
+Write short notes on: a) Adaboost. b) Gradient Tree Boosting. c) Voting Classifier.,7
+Explain with example common architectural principles of deep networks.,7
+What are the support vectors and margins? Explain soft SVM and hard SVM.,6
+"What is training, testing and cross validation of machine learning models.",6
+Differentiate with an example Label encoder and One Hot encoder for managing categorical data.,5
+What is categorical data? What is its significance in classification problems?,5
+What do you mean by linearly separable data and non-linearly separable data?,4
+Explain Elbow method for finding optimal number of clusters.,4

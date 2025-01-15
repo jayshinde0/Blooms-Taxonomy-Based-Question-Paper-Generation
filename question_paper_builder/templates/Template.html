@@ -1,0 +1,128 @@
+{% extends 'base.html' %}
+{% block title %}Download Excel File{% endblock title %}
+{% block body %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="static/img/icon.png" rel="icon">
+<link href="static/img/apple-touch-icon.png" rel="apple-touch-icon">    
+<title>Download Excel File</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  .margin {
+    max-width: 1000px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 150px auto 0; /* Center horizontally and add margin-top */
+  }
+  .h2 {
+    font-size: 30px;
+    color: #333;
+  }
+  p {
+    font-size: 16px;
+    color: #666;
+    margin-top: 20px;
+  }
+  .steps {
+    text-align: left;
+    margin-top: 10px;
+    padding-left: 20px;
+
+  }
+  .steps li {
+    font-size: 16px;
+    color: #666;
+    margin-top: 10px;
+  }
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  button:hover {
+    background-color: #45a049;
+  }
+  .button-icon {
+    vertical-align: middle;
+    margin-right: 10px;
+  }
+</style>
+</head>
+<body>
+
+<div class="margin">
+  <h2 class="h2">Download Sample Excel File</h2>
+  <p>Click the button below to download an sample Excel file in CSV format.</p>
+  <p>The file contains questions and related information.</p>
+  
+  <p class="steps">Steps to create a CSV file:</p>
+  <ul class="steps">
+    <li>Open a text editor or Excel.</li>
+    <li>Start with the "question" tag.</li>
+    <li>Enter the questions one by one, each on a new line.</li>
+    <li>Save the file with a ".csv" extension.</li>
+  </ul>
+  
+
+  <button onclick="downloadExcel()">
+    <img src="https://img.icons8.com/fluent/24/000000/microsoft-excel-2019.png" class="button-icon" alt="Excel Icon"/>
+    Download Excel File
+  </button>
+</div>
+
+<script>
+function downloadExcel() {
+  // Path to your Excel file
+  var excelFilePath = "android.csv";
+  
+  // Fetch the file contents
+  fetch(excelFilePath)
+    .then(response => response.blob())
+    .then(blob => {
+      // Create a URL for the Blob
+      var url = URL.createObjectURL(blob);
+      
+      // Create an anchor element
+      var link = document.createElement('a');
+      link.href = url;
+      
+      // Set the download attribute to force download
+      link.setAttribute('download', 'android.csv');
+      
+      // Append the anchor to the body
+      document.body.appendChild(link);
+      
+      // Trigger a click event to download the file
+      link.click();
+      
+      // Remove the anchor from the body after some time
+      setTimeout(() => {
+        document.body.removeChild(link);
+        // Revoke the URL to release memory
+        URL.revokeObjectURL(url);
+      }, 0);
+    })
+    .catch(error => console.error('Error fetching file:', error));
+}
+</script>
+
+</body>
+</html>
+{% endblock body %}

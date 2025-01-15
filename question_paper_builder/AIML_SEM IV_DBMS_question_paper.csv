@@ -1,0 +1,11 @@
+question,predicted_marks
+Design a user interface adhering to Material Design principles for a music player application in the Android environment.,8
+Elaborate on the concept of Fragments in Android development and discuss their role in creating flexible user interfaces.,8
+"Elaborate on the concept of content providers in Android, highlighting their role in facilitating data sharing between applications.",7
+"Integrate Google Maps API into an Android application, demonstrating the process of displaying and interacting with maps.",7
+How do you handle network requests in an Android app?,6
+"What purpose does the setContentView() method serve within Android activities, and how does it contribute to the user interface?",6
+Analyze the differences between implicit and explicit intents in Android and their respective use cases.,5
+"Design an offline-first Android application that seamlessly synchronizes data with a remote server when internet connectivity is available, detailing the synchronization strategy and implementation",5
+Can you elaborate on the core concept of intents within the Android framework and their significance in facilitating communication between different components?,4
+"Create an Android application that utilizes the ListView widget to dynamically present data retrieved from an external API source, detailing the steps involved in its implementation.",4

@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+    <title>Document</title>
+  </head>
+  <style>
+    body {
+      font-family: "Times New Roman", Times, serif;
+    }
+
+    div {
+      border-collapse: collapse;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    tr,
+    td,
+    th {
+      border: 1px solid black;
+    }
+
+    th:nth-child(1),
+    th:nth-child(3) {
+      width: 80px;
+    }
+  </style>
+
+  <body>
+    <section>
+      <div class="border border-2 border-dark rounded mt-5">
+        <div class="border-bottom border-2 border-dark p-3">
+          <h2 class="text-center fw-bolder">{{subject_data.college_name}}</h2>
+          <h4 class="text-center">{{subject_data.branch_name}} [2022-23]</h4>
+        </div>
+        <div class="border-bottom border-2 border-dark p-1">
+          <h5 class="text-center fw-bold">Unit Test I /II /III /IV</h5>
+          <div class="d-flex justify-content-start">
+            <p class="ms-5 me-5">
+              <span class="fw-bold"
+                >Subject: {{subject_data.subject_name}}</span
+              >
+            </p>
+            <p class="ms-3">
+              <span class="fw-bold">Faculty: {{subject_data.faculty}} </span>
+            </p>
+          </div>
+          <div class="d-flex justify-content-around">
+            <p>
+              <span class="fw-bold"
+                >Year: {{subject_data.year}} - {{subject_data.semester}}</span
+              >
+            </p>
+            <p><span class="fw-bold">Marks:</span> 30</p>
+            <p><span class="fw-bold">Date: {{subject_data.date}}</span></p>
+            <p><span class="fw-bold">Duration:</span> 60 Minutes</p>
+          </div>
+        </div>
+        <div class="border-bottom border-2 border-dark">
+          <ol type="1">
+            <li>Answer Q1 or Q2 and Q3 or Q4</li>
+            <li>Draw Neat diagrams wherever necessary.</li>
+            <li>Use of scientific calculator is allowed.</li>
+            <li>Assume suitable data wherever necessary.</li>
+            <li>Figures to the right indicate full marks.</li>
+          </ol>
+        </div>
+        <table>
+          <tr>
+            <th>Sr.No.</th>
+            <th>Question</th>
+            <th>Blooms Level</th>
+            <th class="text-center">Marks</th>
+          </tr>
+          <tr>
+            <td>Q1</td>
+            <td colspan="3" class="fw-bold">All Questions Are Compulsary</td>
+          </tr>
+          <tr></tr>
+          <tr>
+            <td>Q1.a</td>
+            <td>{{subject_data.q10}}</td>
+            <td>{{subject_data.bl10}}</td>
+            <td class="text-center">{{subject_data.m10}}</td>
+          </tr>
+          <tr>
+            <td>Q1.b</td>
+            <td>{{subject_data.q8}}</td>
+            <td>{{subject_data.bl8}}</td>
+            <td class="text-center">{{subject_data.m8}}</td>
+          </tr>
+          <tr>
+            <td>Q1.c</td>
+            <td>{{subject_data.q6}}</td>
+            <td>{{subject_data.bl6}}</td>
+            <td class="text-center">{{subject_data.m6}}</td>
+          </tr>
+          <tr>
+            <td colspan="4" class="text-center">OR</td>
+          </tr>
+          <tr>
+            <td>Q2</td>
+            <td colspan="3" class="fw-bold">All Questions Are Compulsary</td>
+          </tr>
+          <tr>
+            <td>Q2.a</td>
+            <td>{{subject_data.q9}}</td>
+            <td>{{subject_data.bl9}}</td>
+            <td class="text-center">{{subject_data.m9}}</td>
+          </tr>
+          <tr>
+            <td>Q2.b</td>
+            <td>{{subject_data.q7}}</td>
+            <td>{{subject_data.bl7}}</td>
+            <td class="text-center">{{subject_data.m7}}</td>
+          </tr>
+          <tr>
+            <td>Q2.c</td>
+            <td>{{subject_data.q5}}</td>
+            <td>{{subject_data.bl5}}</td>
+            <td class="text-center">{{subject_data.m5}}</td>
+          </tr>
+          <td colspan="3" class="text-center"></td>
+          <tr>
+            <td>Q3</td>
+            <td colspan="3" class="fw-bold">All Questions Are Compulsary</td>
+          </tr>
+          <tr>
+            <td>Q3.a</td>
+            <td>{{subject_data.q4}}</td>
+            <td>{{subject_data.bl4}}</td>
+            <td class="text-center">{{subject_data.m4}}</td>
+          </tr>
+          <tr>
+            <td>Q3.b</td>
+            <td>{{subject_data.q2}}</td>
+            <td>{{subject_data.bl2}}</td>
+            <td class="text-center">{{subject_data.m2}}</td>
+          </tr>
+
+          <td colspan="4" class="text-center">OR</td>
+          <tr>
+            <td>Q4</td>
+            <td colspan="3" class="fw-bold">All Questions Are Compulsary</td>
+          </tr>
+          <tr>
+            <td>Q4.a</td>
+            <td>{{subject_data.q3}}</td>
+            <td>{{subject_data.bl3}}</td>
+            <td class="text-center">{{subject_data.m3}}</td>
+          </tr>
+          <tr>
+            <td>Q4.b</td>
+            <td>{{subject_data.q1}}</td>
+            <td>{{subject_data.bl1}}</td>
+            <td class="text-center">{{subject_data.m1}}</td>
+          </tr>
+        </table>
+      </div>
+    </section>
+  </body>
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"
+  ></script>
+</html>
+
+
+{% comment %} <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+    <title>Document</title>
+  </head>
+  <style>
+    body {
+      font-family: "Times New Roman", Times, serif;
+    }
+
+    div {
+      border-collapse: collapse;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    tr,
+    td,
+    th {
+      border: 1px solid black;
+    }
+
+    th:nth-child(1),
+    th:nth-child(3) {
+      width: 80px;
+    }
+  </style>
+
+  <body>
+    <section>
+      <div class="border border-2 border-dark rounded mt-5">
+        <div class="border-bottom border-2 border-dark p-3">
+          <h2 class="text-center fw-bolder">{{subject_data.college_name}}</h2>
+          <h4 class="text-center">{{subject_data.branch_name}} [2023-24]</h4>
+        </div>
+        <div class="border-bottom border-2 border-dark p-1">
+          <h5 class="text-center fw-bold">Unit Test I /II</h5>
+          <div class="d-flex justify-content-start">
+            <p class="ms-5 me-5">
+              <span class="fw-bold"
+                >Subject: {{subject_data.subject_name}}</span
+              >
+            </p>
+            <p class="ms-3">
+              <span class="fw-bold">Faculty: {{subject_data.faculty}} </span>
+            </p>
+          </div>
+          <div class="d-flex justify-content-around">
+            <p>
+              <span class="fw-bold"
+                >Year: {{subject_data.year}} - {{subject_data.semester}}</span
+              >
+            </p>
+            <p><span class="fw-bold">Marks:</span> 30</p>
+            <p><span class="fw-bold">Date: {{subject_data.date}}</span></p>
+            <p><span class="fw-bold">Duration:</span> 60 Minutes</p>
+          </div>
+        </div>
+        <div class="border-bottom border-2 border-dark">
+          <h5>Instructions for the Unit test are given in</h5>
+          <ol type="1">
+            <li>Answer Q1 and Q2</li>
+            <li>Draw Neat diagrams wherever necessary.</li>
+            <li>Use of scientific calculator is allowed.</li>
+            <li>Assume suitable data wherever necessary.</li>
+            <li>Figures to the right indicate full marks.</li>
+          </ol>
+        </div>
+        <table>
+         
+          <tr>
+            <th class="text-center">Sr.No.</th>
+            <th>Question</th>
+            <th class="text-center">Blooms Level</th>
+            <th class="text-center">Marks</th>
+          </tr>
+          <tr>
+            <td class="text-center">Q1</td>
+            <td colspan="3" class="fw-bold">
+              Attempt any FOUR of the following
+            </td>
+          </tr>
+          <tr></tr>
+    
+          <tr>
+            <td class="text-center">a</td>
+            <td>{{subject_data.q1}}</td>
+            <td>{{subject_data.bl1}}</td>
+            <td class="text-center">{{subject_data.m10}}</td>
+          </tr>
+          <tr>
+            <td class="text-center">b</td>
+            <td>{{subject_data.q8}}</td>
+            <td>{{subject_data.bl1}}</td>
+            <td class="text-center">{{subject_data.m9}}</td>
+          </tr>
+          <tr>
+            <td class="text-center">c</td>
+            <td>{{subject_data.q6}}</td>
+            <td>{{subject_data.bl3}}</td>
+            <td class="text-center">{{subject_data.m7}}</td>
+          </tr>
+          <tr>
+            <td class="text-center">d</td>
+            <td>{{subject_data.q7}}</td>
+            <td>{{subject_data.bl3}}</td>
+            <td class="text-center">{{subject_data.m7}}</td>
+          </tr>
+          <tr>
+            <td class="text-center">e</td>
+            <td>{{subject_data.q3}}</td>
+            <td>{{subject_data.bl6}}</td>
+            <td class="text-center">{{subject_data.m6}}</td>
+          </tr>
+          <tr>
+            <td class="text-center">f</td>
+            <td>{{subject_data.q2}}</td>
+            <td>{{subject_data.bl6}}</td>
+            <td class="text-center">{{subject_data.m6}}</td>
+          </tr>
+          <tr>
+            <td colspan="4" class="text-center"></td>
+          </tr>
+          <tr>
+            <td class="text-center">Q2</td>
+            <td colspan="4" class="fw-bold">
+              Attempt any THREE of the following
+            </td>
+          </tr>
+          <tr>
+            <td class="text-center">a</td>
+            <td>{{subject_data.q9}}</td>
+            <td>{{subject_data.bl4}}</td>
+            <td class="text-center">{{subject_data.m2}}</td>
+          </tr>
+          <tr>
+            <td class="text-center">b</td>
+            <td>{{subject_data.q6}}</td>
+            <td>{{subject_data.bl4}}</td>
+            <td class="text-center">{{subject_data.m2}}</td>
+          </tr>
+          <tr>
+            <td class="text-center">c</td>
+            <td>{{subject_data.q5}}</td>
+            <td>{{subject_data.bl6}}</td>
+            <td class="text-center">{{subject_data.m4}}</td>
+          </tr>
+          <tr>
+            <td class="text-center">d</td>
+            <td>{{subject_data.q6}}</td>
+            <td>{{subject_data.bl6}}</td>
+            <td class="text-center">{{subject_data.m4}}</td>
+          </tr>
+
+          <td colspan="4" class="text-center"></td>
+        </table>
+      </div>
+    </section>
+  </body>
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"
+  ></script>
+</html> {% endcomment %}

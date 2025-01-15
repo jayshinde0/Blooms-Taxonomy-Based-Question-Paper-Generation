@@ -1,0 +1,11 @@
+question,predicted_marks
+Explain the structure of binary decision tree for a sequential decision process,4
+Explain supervised learning with example.,4
+What is categorical data? What is its significance in classification problems?,5
+Explain isotonic regression and write the applications in brief.,5
+Explain Data formats for supervised learning problem with example.,6
+"With reference to Meta Classifiers, explain the concepts of Weak and eager learner",6
+"Explain the Lasso, and ElasticNet types of regression.",7
+"With reference to Clustering, explain the issue of ?Optimization of clusters?",7
+Define Bayes Theorem. Elaborate Naive Bayes Classifier working with example.,8
+"What are building blocks of deep networks, elaborate.",8

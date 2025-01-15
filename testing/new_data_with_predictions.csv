@@ -1,0 +1,28 @@
+question,predicted_marks
+"With reference to machine learning, explain the concept of adaptive machines.",5
+Explain he role of machine learning algorithms in following applications. a) Spam filtering. b) Natural Language processing.,6
+Explain Data formats for supervised learning problem with example.,6
+What is categorical data? What is its significance in classification problems?,5
+"Explain the Lasso, and ElasticNet types of regression.",7
+What problems are faced by SVM when used with real datasets?,6
+Explain the non-linear SVM with example,5
+Define Bayes Theorem. Elaborate Naive Bayes Classifier working with example.,8
+What are Linear support vector machines? Explain with example.,4
+"Explain with example the variant of SVM, the Support vector regression.",6
+Explain the structure of binary decision tree for a sequential decision process,4
+"With reference to Clustering, explain the issue of ?Optimization of clusters?",7
+Explain Evaluation methods for clustering algorithms,4
+"With reference to Meta Classifiers, explain the concepts of Weak and eager learner",6
+"With reference to Hierarchical Clustering, explain the issue of connectivity constraints.",4
+"What are building blocks of deep networks, elaborate.",8
+"With reference to Deep Learning, Expalin the concept of Deep Architectures?",9
+Justify with elaboration the following statement:,4
+The k-means algorithm is based on the strong initial condition to decide the Number of clusters through the assignment of ?k? initial centroids or means.,7
+Explain supervised learning with example.,4
+Discuss the reinforcement learning and write in brief the applications.,4
+Describe the role of machine learning in the following applications : a) Google home or Alexa b) Unmanned Vehicles,8
+Explain in brief the feature selection and discuss in details any suitable feature selection method.,3
+Write a short note on Kernel PCA?,3
+Discuss in brief the dictionary learning.,5
+Explain isotonic regression and write the applications in brief.,5
+What do you mean by linearly separable data and non-linearly separable data?,4

@@ -1,0 +1,28 @@
+question
+"With reference to machine learning, explain the concept of adaptive machines."
+Explain he role of machine learning algorithms in following applications. a) Spam filtering. b) Natural Language processing.
+Explain Data formats for supervised learning problem with example.
+What is categorical data? What is its significance in classification problems?
+"Explain the Lasso, and ElasticNet types of regression."
+What problems are faced by SVM when used with real datasets?
+Explain the non-linear SVM with example
+Define Bayes Theorem. Elaborate Naive Bayes Classifier working with example.
+What are Linear support vector machines? Explain with example.
+"Explain with example the variant of SVM, the Support vector regression."
+Explain the structure of binary decision tree for a sequential decision process
+"With reference to Clustering, explain the issue of ?Optimization of clusters?"
+Explain Evaluation methods for clustering algorithms
+"With reference to Meta Classifiers, explain the concepts of Weak and eager learner"
+"With reference to Hierarchical Clustering, explain the issue of connectivity constraints."
+"What are building blocks of deep networks, elaborate."
+"With reference to Deep Learning, Expalin the concept of Deep Architectures?"
+Justify with elaboration the following statement:
+The k-means algorithm is based on the strong initial condition to decide the Number of clusters through the assignment of ?k? initial centroids or means.
+Explain supervised learning with example.
+Discuss the reinforcement learning and write in brief the applications.
+Describe the role of machine learning in the following applications : a) Google home or Alexa b) Unmanned Vehicles
+Explain in brief the feature selection and discuss in details any suitable feature selection method.
+Write a short note on Kernel PCA?
+Discuss in brief the dictionary learning.
+Explain isotonic regression and write the applications in brief.
+What do you mean by linearly separable data and non-linearly separable data?

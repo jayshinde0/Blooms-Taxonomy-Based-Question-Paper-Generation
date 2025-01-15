@@ -1,0 +1,69 @@
+question
+
+What is the latest version of the Android operating system?
+Which company developed the Android operating system?
+What programming language is primarily used to develop Android applications?
+What is the purpose of the Android Debug Bridge (ADB)?
+Name one popular integrated development environment (IDE) used for Android app development.
+What is the significance of the Linux kernel in the Android OS architecture?
+What is the purpose of the Android Virtual Device (AVD) in app development?
+What are the four main components of an Android application?
+Explain the difference between an Activity and a Fragment in Android.
+What is the Android Manifest file used for?
+What is the purpose of the Android Asset Packaging Tool (AAPT)?
+What is the role of the Dalvik Virtual Machine (DVM) in Android?
+Explain the concept of an Intent in Android.
+What is the purpose of the Layout XML files in Android?
+What is an APK file in the context of Android?
+What are the different types of storage options available in Android?
+Explain the difference between Shared Preferences and SQLite databases in Android.
+What is the Android Application Sandbox?
+What is the importance of permissions in Android application development?
+What is the significance of the Android Support Library?
+Explain the concept of Activities Lifecycle in Android.
+What are the key differences between Android and iOS operating systems?
+What is the purpose of the Android Software Development Kit (SDK)?
+What are the main security features of the Android operating system?
+Explain the concept of Android Runtime (ART).
+What is the Android NDK and when is it used?
+What is the significance of Material Design in Android app development?
+What is the purpose of the Android Package Manager (APM)?
+Explain the concept of content providers in Android.
+What is the purpose of the Android Application Framework?
+Write and Explain Scikit-learn code for Gaussian naive Bayes classifier.
+Explain with example the role of attribute selection measure in building decision tree.
+Write and explain data formats for clustering technique.
+Explain Elbow method for finding optimal number of clusters.
+Write short notes on : i) Bagging ii) Boosting iii) Random Forests
+Explain with example Naïve User based Recommendation systems.
+What is agglomerative clustering? Explain with example.
+Explain with example common architectural principles of deep networks.
+"What do you mean by linear regression? With suitable example, describe how linear regression is used to predict the output for test example/input sample. What is non linear regression?"
+"Why Support vector machines are called as Kernel Machines? Using Gaussian Kernel, describe how non-linear decision boundaries are obtained in SVM."
+What is the need of Dimensionality Reduction in machine learning? How PCA is used for dimensionality reduction?
+Describe Parametric and non parametric learning with their advantages and limitations. State any four applications where machine learning is used?
+What is over fitting in machine learning? What are the different methods to overcome the over fitting problem. Describe in brief.
+What is Gaussian Mixture Model or Mixture of Gaussian (GMM)? Compare GMM with Clustering (any 3 points).
+"Describe with the help of suitable example, the algorithm for Hebbian learning rule."
+"What are the various features of ANN? With the help of neuron architecture, state and explain the resemblance (similarity) of ANN to biological neural network."
+How deep learning overcomes the challenges in conventional machine learning techniques? Draw and explain the architecture of Convolutional Neural networks.
+What is vanishing gradient problem in multilayered neural networks? Explain how the saturation in activation affects the gradients?
+What are Linear support vector machines? Explain with example.
+"Explain with example the variant of SVM, the Support vector regression."
+"With reference to Clustering, explain the issue of “Optimization of clusters”"
+Explain Evaluation methods for clustering algorithms.
+What is the need if dimensionality reduction? Explain subset selection.
+Write short note on PCA.
+"Compare Supervised, Unsupervised, Semi-Supervised Learning with examples."
+"What is training, testing and cross validation of machine learning models."
+What are the support vectors and margins? Explain soft SVM and hard SVM.
+What is overfitting and underfitting? What are the catalysts of overfitting?
+Elaborate Bias Variance dilemma.
+Write short note on feature tree & write best split algorithm.
+Explain following impurity measures of classifiers. i) Gini Index. ii) Entropy.
+Explain Expectation - maximization algorithm.
+Explain deep learning with applications.
+What is overfitting ? Specify the reasons for overfitting.
+List and explain various distance fuctions.
+"Define and explain single linkage, complete linkage and average linkage with neat diagram."
+Write a note on Compression based model.
