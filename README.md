@@ -1,6 +1,3 @@
-Here is a simplified and shorter version of the `README.md` file for your project:
-
-```markdown
 # Bloom's Taxonomy Based Question Paper Generation
 
 ## Project Overview
