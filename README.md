@@ -11,41 +11,6 @@ This project aims to automate the creation of question papers by using Bloom's T
 - **Customizable Parameters**: Allows educators to specify subject, grade level, difficulty, and topics covered.
 - **Analytics**: Provides insights into student performance to help educators improve instructional strategies.
 
-## Installation
-
-1. Create a virtual environment:
-   ```bash
-   python -m venv myenv
-   myenv\Scripts\activate
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install django
-   pip install opencv-python
-   pip install pandas
-   pip install scikit-learn==1.2.2
-   pip install pickle-mixin
-   ```
-
-3. Apply database migrations:
-   ```bash
-   python manage.py makemigrations
-   python manage.py migrate
-   ```
-
-4. Create a superuser:
-   ```bash
-   python manage.py createsuperuser
-   ```
-
-5. Run the development server:
-   ```bash
-   python manage.py runserver
-   ```
-
-   - Access the project: [http://127.0.0.1:8000](http://127.0.0.1:8000)
-   - Admin panel: [http://127.0.0.1:8000/admin](http://127.0.0.1:8000/admin)
 
 ## Technologies Used
 
